@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+console.log('${1:var}: ' + ${1:var});
+]]></content>
+  <tabTrigger>cons</tabTrigger>
+</snippet>

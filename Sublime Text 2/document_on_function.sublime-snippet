@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+\$(document).on("${1:event}", "${2:query}", function (e) {
+  \$(this).${3:action};
+});
+]]></content>
+  <tabTrigger>docon</tabTrigger>
+  <!-- <description>jQuery $(document).on</description> -->
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+(function(q){
+    \$(q).doOnce(function() {
+      ${2}
+    });
+}('${1}'));
+]]></content>
+  <tabTrigger>qfun</tabTrigger>
+  <description>jQuery Anonymous Function Passing-in query</description>
+</snippet>

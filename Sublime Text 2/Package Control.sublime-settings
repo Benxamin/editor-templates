@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": 1351693204,
+	"installed_packages":
+	[
+		"Package Control",
+		"Sass",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/clemos/haxe-sublime2-bundle"
+	]
+}
